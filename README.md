@@ -5,7 +5,7 @@
 
 ### Front-end Developer
 
-:zap: A Computer Engineer wich loves to learn, help the community and help people do their jobs in the best way.
+:zap: A computer engineer who likes to learn, help the community and allow people to do their job in the best way.
 
 :sparkles: Pronouns: He/His
 <br>
