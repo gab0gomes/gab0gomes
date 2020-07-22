@@ -19,6 +19,7 @@
 | CS:GO                  | [Vue.js consultant](https://medium.com/@gabrielrafael2508/sobre-meu-primeiro-trabalho-como-consultor-8f553e3054f4) | Stylus/Sass/CSS | Tests |
 | Bodybuilding           | [HacktoberFest Meetup Organizer](https://medium.com/sysvale/hacktoberpest-2019-8761a969c85e) |  Flutter/Cordova   | UX |
 
+----
 
 #### Connect with me! :smile:
 
