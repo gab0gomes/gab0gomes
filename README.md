@@ -23,6 +23,11 @@
 
 #### Latest blog posts :newspaper:
 <!-- BLOG-POST-LIST:START -->
+- [Mito: Ter um Objetivo da Sprint é opcional no SCRUM (tradução)](https://medium.com/@gabrielrafael2508/mito-ter-um-objetivo-da-sprint-%C3%A9-opcional-no-scrum-tradu%C3%A7%C3%A3o-891ffffb3b94?source=rss-1da896a6630d------2)
+- [HacktoberPest 2019  ](https://medium.com/sysvale/hacktoberpest-2019-8761a969c85e?source=rss-1da896a6630d------2)
+- [MVP segundo o Lean UX](https://medium.com/sysvale/mvp-segundo-o-lean-ux-584958f7c48?source=rss-1da896a6630d------2)
+- [Metamorphosis: Um ano é tempo demais](https://medium.com/@gabrielrafael2508/metamorphosis-um-ano-%C3%A9-tempo-demais-b9f4da0b3524?source=rss-1da896a6630d------2)
+- [OAuth 2 com Flutter e Laravel Passport](https://medium.com/sysvale/oauth-2-com-flutter-e-laravel-passport-a040c910631e?source=rss-1da896a6630d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ----
