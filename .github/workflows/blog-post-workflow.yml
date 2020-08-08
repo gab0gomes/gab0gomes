@@ -14,6 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 5	
-          comment_tag_name: "MEDIUM"
           commit_message: "Updated readme with the latest Medium Blog data"
           feed_list: "https://medium.com/feed/@gabrielrafael2508"
