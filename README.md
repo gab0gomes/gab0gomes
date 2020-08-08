@@ -7,7 +7,7 @@
 
 :zap: A computer engineer who likes to learn, help the community and allow people to do their job in the best way.
 
-:sparkles: Pronouns: He/His
+:sparkles: Pronouns: He/Him
 <br>
 
 ----
@@ -21,7 +21,7 @@
 
 ----
 
-#### Latest blog posts
+#### Latest blog posts :newspaper:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
