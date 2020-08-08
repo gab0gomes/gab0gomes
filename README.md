@@ -21,6 +21,12 @@
 
 ----
 
+# Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+----
+
 #### Connect with me! :smile:
 
 <a href="https://twitter.com/gabrielr2508">
