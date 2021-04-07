@@ -14,7 +14,7 @@
 
 | :books: <br> Interests | :heavy_check_mark: <br> Previous experiences   | :hammer: <br> Current stack | :rocket: <br> Learning |
 | ---------------------- | ---------------------------------------------- | --------------------------- | ---------------------- |
-| Web dev                | [Sysvale](https://sysvale.com/)                | JavaScript/Vue.js           | React ecosystem        |
+| Web dev                | [Sysvale](https://sysvale.com/)                | TypeScript/JavaScript/Vue.js           | React ecosystem        |
 | Agile                  | [Cidade Saudável](https://cidadesaudavel.com/) | HTML/Laravel Blade          | GraphQL                |
 | CS:GO                  | [Vue.js consultant](https://medium.com/@gab0gomes/sobre-meu-primeiro-trabalho-como-consultor-8f553e3054f4) | Stylus/Sass/CSS | Nest.js |
 | Bodybuilding           | [HacktoberFest Meetup Organizer](https://medium.com/sysvale/hacktoberpest-2019-8761a969c85e) |  Flutter/Cordova   | Strapi |
